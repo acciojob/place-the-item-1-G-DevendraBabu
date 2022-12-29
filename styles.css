@@ -1,14 +1,8 @@
 .holder
 {
     display: flex;
-    background-color: aqua;
+   
     justify-content: space-between;
     flex-wrap: wrap;
     
-}
-.item
-{
-    background-color: bisque;
-    padding: 20px;
-    border: 1px solid black;
 }
